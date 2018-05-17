@@ -1,1 +1,1 @@
-# Algoritmo_de_Substitui-o_de_P-gina
+# Algoritmo_de_Substituição_de_Página
