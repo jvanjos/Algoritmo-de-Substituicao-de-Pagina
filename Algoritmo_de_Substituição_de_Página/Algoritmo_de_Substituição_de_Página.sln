@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmo_de_Substituição_de_Página", "Algoritmo_de_Substituição_de_Página.vcxproj", "{3A453773-2DF4-4943-A649-1E6479BED45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A453773-2DF4-4943-A649-1E6479BED45B}.Debug|x64.ActiveCfg = Debug|x64
+		{3A453773-2DF4-4943-A649-1E6479BED45B}.Debug|x64.Build.0 = Debug|x64
+		{3A453773-2DF4-4943-A649-1E6479BED45B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A453773-2DF4-4943-A649-1E6479BED45B}.Debug|x86.Build.0 = Debug|Win32
+		{3A453773-2DF4-4943-A649-1E6479BED45B}.Release|x64.ActiveCfg = Release|x64
+		{3A453773-2DF4-4943-A649-1E6479BED45B}.Release|x64.Build.0 = Release|x64
+		{3A453773-2DF4-4943-A649-1E6479BED45B}.Release|x86.ActiveCfg = Release|Win32
+		{3A453773-2DF4-4943-A649-1E6479BED45B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F35885-8FE8-472C-9252-C8AAC7E98976}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+﻿  Algoritmo_de_Substituição_de_Página.cpp
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(25): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(47): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(48): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(68): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(79): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(92): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(110): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(145): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo_de_substituição_de_página\algoritmo_de_substituição_de_página.cpp(128): warning C4101: 'numQuadros': variável local não referenciada
+  Algoritmo_de_Substituição_de_Página.vcxproj -> C:\Users\jvanj\source\repos\Algoritmo_de_Substituição_de_Página\Debug\Algoritmo_de_Substituição_de_Página.exe
