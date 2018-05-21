@@ -1,0 +1,45 @@
+"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\jvanj\source\repos\Algoritmo_de_Substituição_de_Página
+-- The C compiler identification is MSVC 19.14.26428.1
+-- The CXX compiler identification is MSVC 19.14.26428.1
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx86/x86/cl.exe
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx86/x86/cl.exe -- broken
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:52 (message):
+  The C compiler
+
+    "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx86/x86/cl.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/jvanj/source/repos/Algoritmo_de_SubstituiÃ§Ã£o_de_PÃ¡gina/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command:"nmake" "/NOLOGO" "cmTC_dca7d\fast"
+    	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_dca7d.dir\build.make /nologo -L                  CMakeFiles\cmTC_dca7d.dir\build
+    Building C object CMakeFiles/cmTC_dca7d.dir/testCCompiler.c.obj
+    	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @C:\Users\jvanj\AppData\Local\Temp\nmE076.tmp
+    testCCompiler.c
+    Linking C executable cmTC_dca7d.exe
+    	"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_dca7d.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_dca7d.dir\objects1.rsp @C:\Users\jvanj\AppData\Local\Temp\nmE2B9.tmp
+    RC Pass 1: command "rc /foCMakeFiles\cmTC_dca7d.dir/manifest.res CMakeFiles\cmTC_dca7d.dir/manifest.rc" failed (exit code 1) with the following output:
+    Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+    Copyright (C) Microsoft Corporation.  All rights reserved.
+    
+    
+    CMakeFiles\cmTC_dca7d.dir/manifest.rc(1) : error RC2135 : file not found: C:/Users/jvanj/source/repos/Algoritmo_de_SubstituiÃ”Ã¶Â£â”¬â•‘Ã”Ã¶Â£â”œâ•‘o_de_PÃ”Ã¶Â£â”œÂ¡gina/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_dca7d.dir/embed.manifest
+    NMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe"' : cÂ¾digo de retorno '0xffffffff'
+    Stop.
+    NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe"' : cÂ¾digo de retorno '0x2'
+    Stop.
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/jvanj/source/repos/Algoritmo_de_SubstituiÃ§Ã£o_de_PÃ¡gina/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/jvanj/source/repos/Algoritmo_de_SubstituiÃ§Ã£o_de_PÃ¡gina/cmake-build-debug/CMakeFiles/CMakeError.log".

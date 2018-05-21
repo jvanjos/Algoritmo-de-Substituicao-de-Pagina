@@ -1,0 +1,44 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/jvanj/source/repos/Algoritmo_de_Substituição_de_Página/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_613bf\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_613bf.dir\build.make /nologo -L                  CMakeFiles\cmTC_613bf.dir\build
+Building C object CMakeFiles/cmTC_613bf.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @C:\Users\jvanj\AppData\Local\Temp\nmEA9B.tmp
+testCCompiler.c
+Linking C executable cmTC_613bf.exe
+	"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_613bf.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_613bf.dir\objects1.rsp @C:\Users\jvanj\AppData\Local\Temp\nmECA0.tmp
+RC Pass 1: command "rc /foCMakeFiles\cmTC_613bf.dir/manifest.res CMakeFiles\cmTC_613bf.dir/manifest.rc" failed (exit code 1) with the following output:
+Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+CMakeFiles\cmTC_613bf.dir/manifest.rc(1) : error RC2135 : file not found: C:/Users/jvanj/source/repos/Algoritmo_de_SubstituiÔö£┬║Ôö£├║o_de_PÔö£├¡gina/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_613bf.dir/embed.manifest
+NMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe"' : c¾digo de retorno '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe"' : c¾digo de retorno '0x2'
+Stop.
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/jvanj/source/repos/Algoritmo_de_Substituição_de_Página/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_dca7d\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_dca7d.dir\build.make /nologo -L                  CMakeFiles\cmTC_dca7d.dir\build
+Building C object CMakeFiles/cmTC_dca7d.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @C:\Users\jvanj\AppData\Local\Temp\nmE076.tmp
+testCCompiler.c
+Linking C executable cmTC_dca7d.exe
+	"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_dca7d.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_dca7d.dir\objects1.rsp @C:\Users\jvanj\AppData\Local\Temp\nmE2B9.tmp
+RC Pass 1: command "rc /foCMakeFiles\cmTC_dca7d.dir/manifest.res CMakeFiles\cmTC_dca7d.dir/manifest.rc" failed (exit code 1) with the following output:
+Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+CMakeFiles\cmTC_dca7d.dir/manifest.rc(1) : error RC2135 : file not found: C:/Users/jvanj/source/repos/Algoritmo_de_SubstituiÔö£┬║Ôö£├║o_de_PÔö£├¡gina/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_dca7d.dir/embed.manifest
+NMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe"' : c¾digo de retorno '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe"' : c¾digo de retorno '0x2'
+Stop.
+
+
